@@ -1,13 +1,13 @@
 {
     "env": {
-        "API_ID": {"description": "Get this value from https://my.telegram.org"},
-        "API_HASH": {"description": "Get this value from https://my.telegram.org"},
-        "BOT_TOKEN": {"description": "Get this from https://t.me/botfather"},
-        "OWNER_ID": {
+        "API_ID": {"description": "27201791"},
+        "API_HASH": {"description": "f9fb64257a2125fdc06ba2de02b8a418"},
+        "BOT_TOKEN": {"description": "6186751953:AAFfDvV8w9WoX0pPR9X270gMS8ysj-NGJqI"},
+        "OWNER_ID": {5338416066"}
             "description": "For /log cmd",
             "required": false},
-        "AUTH_USERS": {
-            "description": "[Users Ids] No time limit for this users",
+        "AUTH_USERS": {"829259422"}
+            "description": "["1001809809574"] No time limit for this users",
             "required": false},
         "TIME_GAP": {
             "description": "Time gap after each request (in seconds)",
